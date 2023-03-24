@@ -1,0 +1,14 @@
+·······························
+  Prefeitura de Santo Augusto
+   Sistema Mun. de Trânsito 
+   Ticket de Estacionamento 
+·······························
+ Zona: Centro
+ Data: 14/04/2022
+ Veiculo: ASDF123
+·······························
+ Entrada: 21:53
+ Saida: 22:53
+·······························
+ Valor do Bilhete: R$ 1,00
+·······························
